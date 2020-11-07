@@ -1,4 +1,4 @@
-# Passport Auth foorm
+# Passport Auth Form
 
 # Install dependencies
 > npm install
